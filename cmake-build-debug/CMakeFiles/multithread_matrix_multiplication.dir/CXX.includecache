@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mishadziuba/Documents/University/UNIX/Labs/multithread_matrix_multiplication/main.cpp
+iostream
+-
+vector
+-
+future
+-
+
